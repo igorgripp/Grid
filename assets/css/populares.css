@@ -28,7 +28,6 @@
 .populares__card___imagem{
   grid-area: card-imagem;
   height: 100%;
-  width: 100;
 }
 
 .populares__card___corpo{
